@@ -6,7 +6,7 @@
 
 **An end-to-end system that translates audio content from videos into target languages while preserving speech characteristics**
 
-![System Architecture](assets/pipeline.png)
+![System Architecture](https://github.com/vpssa/basic-audio-audio-trans/blob/main/aud-to-aud-flowchart.png)
 
 ## ✨ Features
 
