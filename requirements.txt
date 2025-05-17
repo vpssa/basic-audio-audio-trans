@@ -1,0 +1,16 @@
+nltk
+sacremoses
+pandas
+regex
+mock
+transformers>=4.33.2
+mosestokenizer
+bitsandbytes
+scipy
+accelerate
+datasets
+sentencepiece
+yt-dlp
+openai-whisper
+TTS
+pydub
