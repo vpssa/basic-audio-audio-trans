@@ -3,6 +3,9 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Flask](https://img.shields.io/badge/Flask-2.0+-blue.svg)](https://flask.palletsprojects.com/)
+[![Google Colab](https://img.shields.io/badge/Open%20in%20Colab-blue?logo=googlecolab)](https://colab.research.google.com/drive/1hqz8ik51vn0ur8B6ltZVCs4oapWnLbns?usp=sharing)
+
+**The project requires GPU, if not available use colab from above ☝️** 
 
 **An end-to-end system that translates audio content from videos into target languages while preserving speech characteristics**
 
